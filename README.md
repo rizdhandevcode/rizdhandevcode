@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Muhammad Rizdhan Syahlan</h1>
 
 <p align="center">
-  🌱 I'm currently learning Backend Development
+  🌱 I'm currently learning Web Development
 </p>
 
 ---
